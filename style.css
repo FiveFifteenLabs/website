@@ -40,7 +40,6 @@ h1, h2, h3 {
 }
 
 h1 {
-  /*color: #A200FF;*/
   font-weight: 700;
   font-size: 4rem;
 }
@@ -72,6 +71,7 @@ section {
   height: 600px;
   font-size: 110%;
   padding: 4rem 2rem;
+  max-width: 960px;
 }
 
 section > img {
@@ -88,29 +88,14 @@ footer {
   border-top: 1px solid #d6d6d6;
 }
 
-footer > a, footer > a:visited, footer > a:active {
-  display: inline-block;
-  border: 1px solid #d6d6d6;
-  border-radius: 50%;
-  width: 2em;
-  height: 2em;
-  line-height: 2;
-  font-size: 150%;
-  color: #999;
-  margin: auto 0.5rem;
+footer > div {
+  margin: auto;
+  max-width: 960px;
 }
 
-footer > a:hover {
-  color: #A200FF;
-}
-
-footer > p {
+footer > div > p {
   margin: 0.5em;
   font-size: 90%;
   font-weight: 300;
   text-align: left;
-}
-
-footer > p:nth-child(4) {
-  margin-top: 2rem;
 }
