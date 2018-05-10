@@ -40,7 +40,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  color: #A200FF;
+  /*color: #A200FF;*/
   font-weight: 700;
   font-size: 4rem;
 }
