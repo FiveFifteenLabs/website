@@ -1,0 +1,64 @@
+Privacy Policy
+==============
+
+Effective date: November 24, 2018
+
+Five Fifteen Labs, LLC ("us", "we", or "our") operates the Trinkle mobile
+application (hereinafter referred to as the "Service").
+
+This page informs you of our policies regarding the collection, use and
+disclosure of personal data when you use our Service and the choices you have
+associated with that data.
+
+
+
+Types of Data Collected
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Information we collect
+**********************
+
+Our Service collects non-personally identifiable information automatically such as the type of device you use,
+your operating system, IP address, date and time of access, aggregated and anonymous statistics about app usage and crashes.
+
+Application data
+****************
+
+During the operation of the Service the following data is collected locally on your device.
+
+* The number of times it is started so it can ask for a review occasionally
+* The movie titles that you've played in an effort to not repeat previously played movie titles
+
+
+
+How and why we use information
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+All information collected is used to operate and improve the Service, as well as to facilitate development decisions.
+
+
+
+Retention and deletion
+~~~~~~~~~~~~~~~~~~~~~~
+
+Information collected by the Service is retained while it is installed and removed when uninstalled.
+
+
+
+Updates to Privacy Policy
+~~~~~~~~~~~~~~~~~~~~~~~~~
+This Privacy Policy may be updated from time to time for any reason.
+We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy on this website.
+
+
+
+Your consent
+~~~~~~~~~~~~
+By using the Service or this website, you consent to our Privacy Policy.
+
+
+
+How to reach us
+~~~~~~~~~~~~~~~
+If you have any questions about this Privacy Policy, please contact us by visiting this page on our website (http://fivefifteenlabs.com)
+and using the latest posted contact information.
